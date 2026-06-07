@@ -22,7 +22,7 @@ wry = { git = "https://github.com/richerfu/wry", branch= "dev",  default-feature
   "os-webview",
   "linux-body",
 ] }
-tao = { git = "https://github.com/richerfu/tao", branch= "feat/open-harmony",  default-features = false, features = ["rwh_06"] }
+tao = { git = "https://github.com/richerfu/tao", branch= "feat-ohos-webview",  default-features = false, features = ["rwh_06"] }
 tauri-runtime = { version = "2.8.0", path = "../tauri-runtime" }
 tauri-utils = { version = "2.7.0", path = "../tauri-utils" }
 raw-window-handle = "0.6"
